@@ -3,7 +3,7 @@ using Microsoft.EntityFrameworkCore.Migrations;
 
 #nullable disable
 
-namespace Parking.Migrations
+namespace Parking.API.Migrations
 {
     public partial class init : Migration
     {

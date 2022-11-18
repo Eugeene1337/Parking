@@ -1,8 +1,8 @@
-﻿using Parking.Data;
-using Parking.Models;
-using Parking.Repositories.Interfaces;
+﻿using Parking.API.Data;
+using Parking.API.Models;
+using Parking.API.Repositories.Interfaces;
 
-namespace Parking.Repositories
+namespace Parking.API.Repositories
 {
     public class DbInitializer : IDbInitializer
     {

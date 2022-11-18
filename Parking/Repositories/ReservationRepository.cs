@@ -1,8 +1,8 @@
-﻿using Parking.Data;
-using Parking.Models;
-using Parking.Repositories.Interfaces;
+﻿using Parking.API.Data;
+using Parking.API.Models;
+using Parking.API.Repositories.Interfaces;
 
-namespace Parking.Repositories
+namespace Parking.API.Repositories
 {
     public class ReservationRepository : IReservationRepository
     {
@@ -35,7 +35,7 @@ namespace Parking.Repositories
 
         public bool Save()
         {
-            return (_context.SaveChanges() >= 0);
+            return _context.SaveChanges() >= 0;
         }
     }
 }

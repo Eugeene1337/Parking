@@ -1,8 +1,8 @@
 {
   "Version": 1,
-  "Hash": "D1mcP7D/MtPRVX4P8jVrZmpGxnFI8cguLQxuZoOgSpo=",
-  "Source": "Parking",
-  "BasePath": "_content/Parking",
+  "Hash": "jbSF+sgkL+PhtiBpP196SnW19pouUTzXBpSE6Cga7B0=",
+  "Source": "Parking.API",
+  "BasePath": "_content/Parking.API",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],

@@ -1,8 +1,8 @@
 ﻿using AutoMapper;
 using Microsoft.AspNetCore.Identity;
-using Parking.Models.DTO;
+using Parking.API.Models.DTO;
 
-namespace Parking.Models.Mappings
+namespace Parking.API.Models.Mappings
 {
     public class UserMappingProfile : Profile
     {

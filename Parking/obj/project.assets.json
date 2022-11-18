@@ -2277,9 +2277,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\repos\\Parking\\Parking\\Parking.csproj",
-      "projectName": "Parking",
-      "projectPath": "C:\\repos\\Parking\\Parking\\Parking.csproj",
+      "projectUniqueName": "C:\\repos\\Parking\\Parking\\Parking.API.csproj",
+      "projectName": "Parking.API",
+      "projectPath": "C:\\repos\\Parking\\Parking\\Parking.API.csproj",
       "packagesPath": "C:\\Users\\zheny\\.nuget\\packages\\",
       "outputPath": "C:\\repos\\Parking\\Parking\\obj\\",
       "projectStyle": "PackageReference",

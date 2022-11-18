@@ -1,9 +1,9 @@
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
-using Parking.Data;
-using Parking.Models.Mappings;
-using Parking.Repositories;
-using Parking.Repositories.Interfaces;
+using Parking.API.Data;
+using Parking.API.Models.Mappings;
+using Parking.API.Repositories;
+using Parking.API.Repositories.Interfaces;
 
 var builder = WebApplication.CreateBuilder(args);
 

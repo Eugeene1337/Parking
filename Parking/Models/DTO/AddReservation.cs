@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations;
 
-namespace Parking.Models.DTO
+namespace Parking.API.Models.DTO
 {
     public class AddReservation
     {

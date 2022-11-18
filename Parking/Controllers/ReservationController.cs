@@ -1,9 +1,9 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using Parking.Models;
-using Parking.Models.DTO;
-using Parking.Repositories.Interfaces;
+using Parking.API.Models;
+using Parking.API.Models.DTO;
+using Parking.API.Repositories.Interfaces;
 
-namespace Parking.Controllers
+namespace Parking.API.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]

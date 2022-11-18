@@ -1,9 +1,9 @@
 ﻿using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
-using Parking.Models;
+using Parking.API.Models;
 
-namespace Parking.Data
+namespace Parking.API.Data
 {
     public class ApplicationDbContext : IdentityDbContext
     {

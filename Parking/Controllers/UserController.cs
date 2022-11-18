@@ -1,10 +1,10 @@
 ﻿using AutoMapper;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
-using Parking.Data;
-using Parking.Models.DTO;
+using Parking.API.Data;
+using Parking.API.Models.DTO;
 
-namespace Parking.Controllers
+namespace Parking.API.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]

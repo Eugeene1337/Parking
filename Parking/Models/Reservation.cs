@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations;
 
-namespace Parking.Models
+namespace Parking.API.Models
 {
     public class Reservation
     {

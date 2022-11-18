@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "l7/qEBeTU9W6sG67fG6YbS7TIAugm8R+9QbJnNNv86roSZEd9SdgqYF4vu6E7btMCLBmrfYXdyfydnTIEFsiSw==",
+  "dgSpecHash": "M7GTaqt60RaUQMmZ2JXx+BE9YNxIjYJt/ob3sm1LmBSk4jlWRo6uYWGPHn2A59G7eU0Gm87HFDzZh+34/4tcfA==",
   "success": true,
-  "projectFilePath": "C:\\repos\\Parking\\Parking\\Parking.csproj",
+  "projectFilePath": "C:\\repos\\Parking\\Parking\\Parking.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\zheny\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
     "C:\\Users\\zheny\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",

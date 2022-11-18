@@ -1,6 +1,6 @@
-﻿using Parking.Models;
+﻿using Parking.API.Models;
 
-namespace Parking.Repositories.Interfaces
+namespace Parking.API.Repositories.Interfaces
 {
     public interface IReservationRepository
     {

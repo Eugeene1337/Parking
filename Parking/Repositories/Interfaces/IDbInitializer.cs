@@ -1,4 +1,4 @@
-﻿namespace Parking.Repositories.Interfaces
+﻿namespace Parking.API.Repositories.Interfaces
 {
     public interface IDbInitializer
     {

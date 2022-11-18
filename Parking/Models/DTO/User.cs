@@ -1,4 +1,4 @@
-﻿namespace Parking.Models.DTO
+﻿namespace Parking.API.Models.DTO
 {
     public class User
     {

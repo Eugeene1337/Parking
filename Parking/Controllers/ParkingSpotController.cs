@@ -1,8 +1,8 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using Parking.Models;
-using Parking.Repositories.Interfaces;
+using Parking.API.Models;
+using Parking.API.Repositories.Interfaces;
 
-namespace Parking.Controllers
+namespace Parking.API.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
@@ -40,7 +40,7 @@ namespace Parking.Controllers
         [Route("Add")]
         public IActionResult Add()
         {
-            parkingSpotRepository.Add(new ParkingSpot { IsAvailable = true});
+            parkingSpotRepository.Add(new ParkingSpot { IsAvailable = true });
 
             if (!parkingSpotRepository.Save())
             {
